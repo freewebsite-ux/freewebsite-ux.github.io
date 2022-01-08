@@ -1,0 +1,25 @@
+body {
+  background-color: #135589;
+}
+
+section {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+}
+
+#Picture {
+  background-color: #3ddad7;
+}
+
+#About {
+  background-color: #2a93d5;
+}
+
+#Footer {
+  background-color: #135589;
+  height: 100px;
+}
+
+nav {
+  background-color: #3187c9;
+}
